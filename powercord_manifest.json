@@ -1,0 +1,9 @@
+{
+    "name": "one piece",
+    "description": "Best anime character theme.",
+    "version": "1",
+    "author": "Trator de Jacare #3219",
+    "theme": "one piece.css",
+    "consent": ["ext_listing"],
+    "license": "MIT"
+}
